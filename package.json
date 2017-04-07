@@ -1,6 +1,6 @@
 {
   "name": "satisfied",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Keep your package.json version requirements satisfied",
   "main": "index.js",
   "bin": "cli.js",
