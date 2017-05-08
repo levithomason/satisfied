@@ -11,6 +11,8 @@
 
 # Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/levithomason/satisfied.svg)](https://greenkeeper.io/)
+
     $ npm install satisfied --save-dev
 
 # Usage
