@@ -4,6 +4,8 @@
   "description": "Keep your package.json version requirements satisfied",
   "main": "index.js",
   "bin": "cli.js",
+  "repository": "https://github.com/levithomason/satisfied",
+  "bugs": "https://github.com/levithomason/satisfied/issues",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --fix .",
